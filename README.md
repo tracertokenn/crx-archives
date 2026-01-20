@@ -5,7 +5,10 @@ Thank you for checking out this project. If anything doesn't work on your old la
 How to use CRX extension? Well, for these files it should just work by installing them. If not, open Chrome. enter chrome://extensions/ in your address bar. Enable developer mode. Click load unpacked. Select extension. If it says "Could not load manifest", RENAME the extension from something like "your-extension.crx" to "your-extension.zip". It's important you renamed and didn't compress. Once done, unzip the file. You can now go back to chrome://extensions/ and load the unpacked folder. Visual tutorial for error on Fedora Linux is in the "IMPORTANT" subfolder.
 
 
-Contacts
+# Contacts
+
 Reddit: u/Low_Staff_2263
+
 Discord: tracertokenn
+
 Signal: tracertokenn.85
